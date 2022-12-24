@@ -28,12 +28,6 @@ url = "./youtube"
 home = [ "HTML", "RSS", "JSON" ]
 
 [[menu.main]]
-identifier = "Contact"
-name = "Contact"
-url = "/contact"
-weight = 50
-
-[[menu.main]]
 identifier = "Blog"
 name = "Blog"
 url = "/blog/"

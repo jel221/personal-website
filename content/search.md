@@ -1,7 +1,7 @@
 ---
 title: "Search" # in any language you want
 layout: "search" # is necessary
-url: "/search"
+url: "/search/"
 # description: "Description for Search"
 placeholder: "Enter keywords"
 ---
