@@ -6,8 +6,41 @@
     <description>Recent content on Jacob Leigh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ocf.berkeley.edu/~jlaurenceleigh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/about/</guid>
+      <description>I am a student at UC Berkeley studying Computer Science and Applied Mathematics.
+I&amp;rsquo;m still exploring possibilities for my career path in CS, so I just code in my free time! Some of my projects include web development, algorithm design, and game development.
+Many of my projects are private on GitHub due to personal reasons. If you want to see them, please contact me!
+I like to explore nature in my free time.</description>
+    </item>
     
     
+    <item>
+      <title>Contact</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/contact/</guid>
+      <description>Email: {my first + middle + last name} at {my uni domain}
+Hint: Laurence </description>
+    </item>
+    
+    
+    <item>
+      <title>Youtube (TBD)</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/youtube/</guid>
+      <description>You probably expected to be redirected to a Youtube channel, rather than this page.
+To be honest, I still haven&amp;rsquo;t gotten around to making one yet.
+But here are some of my plans for its content:
+Educational (CS, Math, etc.) Vlog Random rants ASMR? &amp;hellip; And much more! (hopefully)</description>
+    </item>
     
   </channel>
 </rss>
