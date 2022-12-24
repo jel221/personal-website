@@ -1,0 +1,52 @@
+baseURL = 'https://ocf.berkeley.edu/~jlaurenceleigh/'
+languageCode = 'en-us'
+title = "Jacob Leigh's Website"
+theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Jacob."
+subtitle = "Berkeley CS '25"
+imageUrl = "profile.png"
+imageTitle = "Profile Picture"
+imageWidth = 120
+imageHeight = 120
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jel221"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jacob-leigh-ucb/"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "./youtube"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.main]]
+identifier = "About"
+name = "About"
+url = "/about"
+weight = 20
+
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = -1
+
+[[menu.main]]
+identifier = "Contact"
+name = "Contact"
+url = "/contact"
+weight = 50
