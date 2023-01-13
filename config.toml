@@ -1,4 +1,4 @@
-baseURL = 'https://ocf.berkeley.edu/~jlaurenceleigh/'
+baseURL = 'https://ocf.berkeley.edu/'
 languageCode = 'en-us'
 title = "Jacob Leigh's Website"
 theme = 'PaperMod'
@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = true
 title = "Hi, I'm Jacob."
-subtitle = "Berkeley CS '25"
+subtitle = "Berkeley CS '24"
 imageUrl = "profile.png"
 imageTitle = "Profile Picture"
 imageWidth = 120
@@ -30,7 +30,7 @@ home = [ "HTML", "RSS", "JSON" ]
 [[menu.main]]
 identifier = "Blog"
 name = "Blog"
-url = "/blog/"
+url = "/blog"
 weight = 10
 
 [[menu.main]]

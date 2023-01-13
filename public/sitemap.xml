@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/about/</loc>
-  </url><url>
     <loc>https://ocf.berkeley.edu/~jlaurenceleigh/blog/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/blog/christmas22/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa22coursereview/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/blog/sp22coursereview/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa21coursereview/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/about/</loc>
   </url><url>
     <loc>https://ocf.berkeley.edu/~jlaurenceleigh/categories/</loc>
   </url><url>
     <loc>https://ocf.berkeley.edu/~jlaurenceleigh/contact/</loc>
-  </url><url>
-    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/</loc>
-  </url><url>
-    <loc>https://ocf.berkeley.edu/~jlaurenceleigh/posts/</loc>
   </url><url>
     <loc>https://ocf.berkeley.edu/~jlaurenceleigh/search/</loc>
   </url><url>

@@ -5,7 +5,50 @@
     <link>https://ocf.berkeley.edu/~jlaurenceleigh/</link>
     <description>Recent content on Jacob Leigh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ocf.berkeley.edu/~jlaurenceleigh/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ocf.berkeley.edu/~jlaurenceleigh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My thoughts on Last Christmas</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/blog/christmas22/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/blog/christmas22/</guid>
+      <description>Last Christmas by Wham! is truly an iconic Christmas song. It also happens to be one of my favorite songs of all time. I love hearing it everywhere whenever Christmas season comes around.
+However, Last Christmas is such a great song that it should be played even outside of Christmas season.
+First, Last Christmas is NOT just Christmas music, contrary to popular belief. You can replace every occurence of the word &amp;ldquo;Christmas&amp;rdquo; in the lyrics, and it would still make sense.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2022 Course Review</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa22coursereview/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa22coursereview/</guid>
+      <description>Courses taken: CS 61C, CS 170, AGRS 10A, Integbi 11, Music 44
+I&amp;rsquo;ve now officially changed by major to Computer Science, so I&amp;rsquo;ll focus more on CS courses.
+CS 61C CS 170 AGRS 10A Integbi 11 Music 44 </description>
+    </item>
+    
+    <item>
+      <title>Spring 2022 Course Review</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/blog/sp22coursereview/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/blog/sp22coursereview/</guid>
+      <description>Courses taken: Chem 4B, CS 61B, CS 70, Histart 11
+Chem 4B Second course in the Chem 4 series. It&amp;rsquo;s certainly a lot more interesting than 4A. The labs are very enjoyable, allowing you to gain experience with a variety of analytical tools and equipment. Also, Professors Bediako and Arnold are phenomenal. Some of the best professors I&amp;rsquo;ve ever had. It&amp;rsquo;s a required course, but I recommend really understanding and appreciating the content being taught.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2021 Course Review</title>
+      <link>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa21coursereview/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocf.berkeley.edu/~jlaurenceleigh/blog/fa21coursereview/</guid>
+      <description>Courses taken: Chem 4A, CS 61A, Math H54, Music 26AC
+Chem 4A General chemistry for College of Chemistry students. It attempts to build a solid foundation of general chemistry and lab techniques that are often glossed over and simply accepted as true. For example, it debunks the Bohr model and teaches students the quantum theory of the atom. Furthermore, it familiarizes students with writing formal lab reports and working collaboratively in a lab setting.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://ocf.berkeley.edu/~jlaurenceleigh/about/</link>
@@ -17,7 +60,6 @@ I&amp;rsquo;m still exploring possibilities for my career path in CS, so I just 
 Many of my projects are private on GitHub due to personal reasons. If you want to see them, please contact me!
 I like to explore nature in my free time.</description>
     </item>
-    
     
     <item>
       <title>Contact</title>
